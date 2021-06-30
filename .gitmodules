@@ -40,3 +40,6 @@
 [submodule "lib/ds-vault"]
 	path = lib/ds-vault
 	url = https://github.com/dapphub/ds-vault
+[submodule "lib/ds-value"]
+	path = lib/ds-value
+	url = https://github.com/dapphub/ds-value
