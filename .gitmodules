@@ -46,6 +46,6 @@
 [submodule "lib/ds-cache"]
 	path = lib/ds-cache
 	url = git@github.com:dapphub/ds-cache
-[submodule "lib/dappsys"]
-	path = lib/dappsys
-	url = git@github.com:dapphub/dappsys
+[submodule "dappsys"]
+	path = dappsys
+	url = git@github.com:dapphub/dappsys.git
