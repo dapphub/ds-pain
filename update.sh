@@ -7,9 +7,11 @@
 pkgs="ds-test
 ds-note
 ds-auth
+ds-proxy
 ds-exec
 ds-math
 erc20
+ds-weth
 ds-thing
 ds-stop
 ds-token
