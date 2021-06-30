@@ -1,51 +1,51 @@
 [submodule "lib/ds-test"]
 	path = lib/ds-test
-	url = https://github.com/dapphub/ds-test
+	url = git@github.com:dapphub/ds-test.git
 [submodule "lib/ds-note"]
 	path = lib/ds-note
-	url = https://github.com/dapphub/ds-note
+	url = git@github.com:dapphub/ds-note
 [submodule "lib/ds-auth"]
 	path = lib/ds-auth
-	url = https://github.com/dapphub/ds-auth
+	url = git@github.com:dapphub/ds-auth
 [submodule "lib/ds-proxy"]
 	path = lib/ds-proxy
-	url = https://github.com/dapphub/ds-proxy
+	url = git@github.com:dapphub/ds-proxy
 [submodule "lib/ds-exec"]
 	path = lib/ds-exec
-	url = https://github.com/dapphub/ds-exec
+	url = git@github.com:dapphub/ds-exec
 [submodule "lib/ds-math"]
 	path = lib/ds-math
-	url = https://github.com/dapphub/ds-math
+	url = git@github.com:dapphub/ds-math
 [submodule "lib/erc20"]
 	path = lib/erc20
-	url = https://github.com/dapphub/erc20
+	url = git@github.com:dapphub/erc20
 [submodule "lib/ds-weth"]
 	path = lib/ds-weth
-	url = https://github.com/dapphub/ds-weth
+	url = git@github.com:dapphub/ds-weth
 [submodule "lib/ds-thing"]
 	path = lib/ds-thing
-	url = https://github.com/dapphub/ds-thing
+	url = git@github.com:dapphub/ds-thing
 [submodule "lib/ds-stop"]
 	path = lib/ds-stop
-	url = https://github.com/dapphub/ds-stop
+	url = git@github.com:dapphub/ds-stop
 [submodule "lib/ds-token"]
 	path = lib/ds-token
-	url = https://github.com/dapphub/ds-token
+	url = git@github.com:dapphub/ds-token
 [submodule "lib/ds-roles"]
 	path = lib/ds-roles
-	url = https://github.com/dapphub/ds-roles
+	url = git@github.com:dapphub/ds-roles
 [submodule "lib/ds-guard"]
 	path = lib/ds-guard
-	url = https://github.com/dapphub/ds-guard
+	url = git@github.com:dapphub/ds-guard
 [submodule "lib/ds-vault"]
 	path = lib/ds-vault
-	url = https://github.com/dapphub/ds-vault
+	url = git@github.com:dapphub/ds-vault
 [submodule "lib/ds-value"]
 	path = lib/ds-value
-	url = https://github.com/dapphub/ds-value
+	url = git@github.com:dapphub/ds-value
 [submodule "lib/ds-cache"]
 	path = lib/ds-cache
-	url = https://github.com/dapphub/ds-cache
+	url = git@github.com:dapphub/ds-cache
 [submodule "lib/dappsys"]
 	path = lib/dappsys
-	url = https://github.com/dapphub/dappsys
+	url = git@github.com:dapphub/dappsys
