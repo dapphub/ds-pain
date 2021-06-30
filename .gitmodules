@@ -46,3 +46,6 @@
 [submodule "ds-proxy"]
 	path = ds-proxy
 	url = git@github.com:dapphub/ds-proxy.git
+[submodule "dappsys"]
+	path = dappsys
+	url = git@github.com:dapphub/dappsys.git
