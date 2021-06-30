@@ -10,3 +10,6 @@
 [submodule "lib/ds-proxy"]
 	path = lib/ds-proxy
 	url = https://github.com/dapphub/ds-proxy
+[submodule "lib/ds-exec"]
+	path = lib/ds-exec
+	url = https://github.com/dapphub/ds-exec
