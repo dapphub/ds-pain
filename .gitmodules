@@ -40,3 +40,9 @@
 [submodule "ds-cache"]
 	path = ds-cache
 	url = git@github.com:dapphub/ds-cache.git
+[submodule "ds-weth"]
+	path = ds-weth
+	url = git@github.com:dapphub/ds-weth.git
+[submodule "ds-proxy"]
+	path = ds-proxy
+	url = git@github.com:dapphub/ds-proxy.git
